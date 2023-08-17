@@ -142,7 +142,7 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">REGENT GROUP</h3>
-                            <p class="section-subtext">Bienvenido a la página de Regent Grup. Somos una <strong>empresa de eventos i espectáculos</strong> ubicada en <strong>Barelona</strong> y ofrecemos nuestros servicios y catálogo de artistas a empresas y particulares que quieran soprender con <strong>eventos especiales</strong> y únicos.</p>
+                            <p class="section-subtext">Bienvenidos a la página de Regent Grup. Somos una <strong>empresa de eventos i espectáculos</strong> ubicada en <strong>Barelona</strong> y ofrecemos nuestros servicios y catálogo de artistas a empresas y particulares que quieran soprender con <strong>eventos especiales</strong> y únicos.</p>
 
                             <p class="section-subtext">Conslta nuestro catalogo de artistas, servicios y eventos de los que hemos formado parte así conocernos un poco mejor.</p>
 
